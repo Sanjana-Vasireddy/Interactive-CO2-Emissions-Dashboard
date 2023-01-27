@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+**/*.ipynb_checkpoints
+model/.ipynb_checkpoints/emission_prediction-checkpoint.ipynb

@@ -1,0 +1,51 @@
+﻿Country_code,Country_name,Series_name,Average
+AUT,Austria,Energy use per capita (kilograms of oil equivalent),3642.88
+CAN,Canada,Energy use per capita (kilograms of oil equivalent),7951.58
+CHN,China,Energy use per capita (kilograms of oil equivalent),998.62
+DEU,Germany,Energy use per capita (kilograms of oil equivalent),4163.52
+GBR,United Kingdom,Energy use per capita (kilograms of oil equivalent),3694.92
+IND,India,Energy use per capita (kilograms of oil equivalent),443.89
+ITA,Italy,Energy use per capita (kilograms of oil equivalent),2885.50
+JPN,Japan,Energy use per capita (kilograms of oil equivalent),3928.33
+SAU,Saudi Arabia,Energy use per capita (kilograms of oil equivalent),5123.00
+USA,United States,Energy use per capita (kilograms of oil equivalent),7776.66
+AUT,Austria,Population in urban agglomerations >1million (%),19.65
+CAN,Canada,Population in urban agglomerations >1million (%),41.70
+CHN,China,Population in urban agglomerations >1million (%),13.07
+DEU,Germany,Population in urban agglomerations >1million (%),7.80
+GBR,United Kingdom,Population in urban agglomerations >1million (%),26.06
+IND,India,Population in urban agglomerations >1million (%),11.29
+ITA,Italy,Population in urban agglomerations >1million (%),17.98
+JPN,Japan,Population in urban agglomerations >1million (%),47.37
+SAU,Saudi Arabia,Population in urban agglomerations >1million (%),38.22
+USA,United States,Population in urban agglomerations >1million (%),43.05
+AUT,Austria,Nationally terrestrial protected areas (% of total land area),22.14
+CAN,Canada,Nationally terrestrial protected areas (% of total land area),7.45
+CHN,China,Nationally terrestrial protected areas (% of total land area),15.20
+DEU,Germany,Nationally terrestrial protected areas (% of total land area),36.58
+GBR,United Kingdom,Nationally terrestrial protected areas (% of total land area),23.63
+IND,India,Nationally terrestrial protected areas (% of total land area),5.26
+ITA,Italy,Nationally terrestrial protected areas (% of total land area),8.68
+JPN,Japan,Nationally terrestrial protected areas (% of total land area),15.32
+SAU,Saudi Arabia,Nationally terrestrial protected areas (% of total land area),26.27
+USA,United States,Nationally terrestrial protected areas (% of total land area),14.80
+AUT,Austria,GNI per capita (Atlas $),29046.84
+CAN,Canada,GNI per capita (Atlas $),25198.42
+CHN,China,GNI per capita (Atlas $),1086.84
+DEU,Germany,GNI per capita (Atlas $),28663.16
+GBR,United Kingdom,GNI per capita (Atlas $),26999.47
+IND,India,GNI per capita (Atlas $),526.84
+ITA,Italy,GNI per capita (Atlas $),23451.58
+JPN,Japan,GNI per capita (Atlas $),35052.11
+SAU,Saudi Arabia,GNI per capita (Atlas $),9686.32
+USA,United States,GNI per capita (Atlas $),34056.84
+AUT,Austria,Population growth (annual %),0.47
+CAN,Canada,Population growth (annual %),1.03
+CHN,China,Population growth (annual %),0.89
+DEU,Germany,Population growth (annual %),0.22
+GBR,United Kingdom,Population growth (annual %),0.38
+IND,India,Population growth (annual %),1.65
+ITA,Italy,Population growth (annual %),0.29
+JPN,Japan,Population growth (annual %),0.19
+SAU,Saudi Arabia,Population growth (annual %),2.72
+USA,United States,Population growth (annual %),1.10

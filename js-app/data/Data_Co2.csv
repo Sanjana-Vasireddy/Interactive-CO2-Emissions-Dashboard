@@ -1,0 +1,202 @@
+﻿country,total,population,perCapita,continent
+Afghanistan,814.07,35856344,0.03,asia
+Albania,4176.71,71519,1.31,europe
+Algeria,111304.45,66391257,3.23,africa
+Andorra,539.05,2913399,6.53,europe
+Angola,24370.88,54849,1.35,africa
+Antigua and Barbuda,447.37,2946293,5.15,northAmerica
+Argentina,192378.15,13172,4.84,southAmerica
+Armenia,5548.17,85695,1.8,asia
+Aruba,2288.21,28189672,21.68,northAmerica
+Australia,399218.96,100341,18.57,oceania
+Austria,67725.82,22019168,8.12,europe
+Azerbaijan,47139.29,8362829,5.38,europe
+"Bahamas, The",2156.2,322106,6.46,northAmerica
+Bahrain,22478.71,10877947,21.36,asia
+Bangladesh,46526.9,274711,0.32,asia
+Barbados,1353.12,196353492,4.97,northAmerica
+Belarus,62815.71,63447,6.54,europe
+Belgium,104879.87,373272,9.79,europe
+Belize,425.37,705516,1.32,northAmerica
+Benin,4066.7,1213645,0.49,africa
+Bermuda,388.7,10223270,6.05,northAmerica
+Bhutan,733.4,396053,1.05,asia
+Bolivia,12834.5,3811088,1.33,southAmerica
+Bosnia and Herzegovina,31275.84,9445710,8.29,europe
+Brazil,393219.74,2091664,2.05,southAmerica
+Brunei Darussalam,10593.96,27556,27.54,asia
+Bulgaria,50538.59,9731427,6.63,europe
+Burkina Faso,1855.5,148391139,0.12,africa
+Burundi,179.68,9237202,0.02,africa
+Cambodia,4602.09,41517895,0.33,europe
+Cameroon,5302.48,4660067,0.28,africa
+Canada,544091.13,9126605,16.33,northAmerica
+Cape Verde,308.03,656024,0.63,africa
+Central african Republic,260.36,16116845,0.06,africa
+Chad,495.05,22337563,0.05,europe
+Chile,73108.98,33963412,4.35,southAmerica
+China,7031916.21,521212,5.31,asia
+Colombia,67700.15,1348191368,1.5,southAmerica
+Comoros,124.68,44816108,0.18,africa
+"Congo, Dem. Rep.",2816.26,413296,0.05,oceania
+"Congo, Rep.",1936.18,11894727,0.5,africa
+Cook Islands,69.67,17004162,3.48,oceania
+Costa Rica,8016.06,17212,1.77,northAmerica
+Cote d'Ivoire,7014.97,54074,0.37,oceania
+Croatia,23303.79,8450933,5.26,europe
+Cuba,31418.86,4622252,2.79,northAmerica
+Cyprus,8555.11,159380,7.94,europe
+Czech Republic,116995.64,1129686,11.22,europe
+Denmark,46024.52,68755,8.38,europe
+Djibouti,524.38,5550849,0.61,africa
+Dominica,128.35,919199,1.88,northAmerica
+Dominican Republic,21616.97,9775755,2.24,northAmerica
+Ecuador,26824.11,6114034,1.91,southAmerica
+"Egypt, Arab Rep.",210320.79,1094524,2.69,africa
+El Salvador,6112.89,5163590,1,Americas
+Eritrea,414.37,1331535,0.08,africa
+Estonia,18291,89237791,13.64,europe
+Ethiopia,7106.65,3187,0.09,africa
+Faeroe Islands,707.73,62444567,14.56,oceania
+Fiji,1254.11,905169,1.49,oceania
+Finland,56512.14,48410,10.64,europe
+France,376985.94,5363271,5.87,europe
+French Polynesia,891.08,47403,3.37,asia
+Gabon,2471.56,283788,1.7,africa
+"Gambia, The",410.7,31262,0.25,africa
+Georgia,5203.47,1937275,1.19,europe
+Germany,786659.51,10464749,9.58,europe
+Ghana,8591.78,3836831,0.37,africa
+Gibraltar,421.71,81325090,14.4,europe
+Greece,97813.56,114039,8.7,europe
+Greenland,575.72,164905,10.22,northAmerica
+Grenada,245.69,403072,2.37,northAmerica
+Guatemala,11914.08,14543121,0.87,northAmerica
+Guinea,1393.46,25574719,0.15,africa
+Guinea-Bissau,282.36,11033783,0.19,africa
+Guyana,1525.47,10270728,2.03,southAmerica
+Haiti,2434.89,7132438,0.25,northAmerica
+Honduras,8672.46,9842880,1.19,northAmerica
+"Hong Kong SAR, China",38573.17,747932,5.53,asia
+Hungary,54638.3,9986825,5.44,europe
+Iceland,2229.54,83828,7.02,europe
+India,1742697.75,244016173,1.53,asia
+Indonesia,406028.58,318333,1.73,asia
+"Iran, Islamic Rep.",538403.61,31264875,7.45,asia
+Iraq,102936.36,4524585,3.41,asia
+Ireland,43604.3,75373855,9.85,europe
+Israel,37663.76,7328445,5.15,asia
+Italy,445118.8,59822450,7.44,europe
+Jamaica,12203.78,21120042,4.54,asia
+Japan,1208162.82,128105431,9.46,asia
+Jordan,21382.28,2733896,3.69,europe
+Kazakhstan,236954.21,96151,15.12,europe
+Kenya,10392.28,6931258,0.27,africa
+Kiribati,29.34,107995,0.3,europe
+"Korea, Dem. Rep.",78371.12,143242599,3.25,oceania
+"Korea, Rep.",509170.28,5483774,10.48,europe
+Kuwait,76742.98,2101530,30.11,asia
+Kyrgyz Republic,6208.23,16627837,1.18,asia
+Lao PDR,1532.81,2022747,0.25,asia
+Latin America & Caribbean,1584103.66,4995800,2.78,southAmerica
+Latvia,7590.69,53416,3.35,europe
+Lebanon,17099.22,4019956,4.1,asia
+Liberia,608.72,6491988,0.17,africa
+Libya,58330.97,35926,9.49,africa
+Lithuania,15130.04,15529181,4.51,europe
+Luxembourg,10502.29,418755,21.49,europe
+"Macedonia, FYR",11815.07,4938,5.76,europe
+Madagascar,1910.51,107588,0.1,africa
+Malawi,1228.45,16647543,0.09,africa
+Malaysia,208267.27,160952853,7.57,asia
+Maldives,920.42,3678186,2.99,asia
+Mali,594.05,32464865,0.04,africa
+Malta,2559.57,23073723,6.21,Americas
+Marshall Islands,99.01,2702520,1.87,oceania
+Mauritania,1998.52,4346338,0.61,africa
+Mauritius,3953.03,5855734,3.12,africa
+Mexico,475833.59,33178,4.3,asia
+"Micronesia, Fed. Sts.",62.34,228453,0.56,oceania
+Moldova,4774.43,112532401,1.34,europe
+Mongolia,10894.66,27161567,4.08,africa
+Montenegro,1950.84,10241,3.1,europe
+Morocco,47905.69,1283330,1.53,africa
+Mozambique,2313.88,261426,0.1,africa
+Myanmar,12775.83,49390988,0.27,asia
+Namibia,3967.69,24686435,1.8,africa
+Nauru,143.01,7583269,14.05,oceania
+Nepal,3542.32,3623617,0.12,asia
+Netherlands,173749.79,18540,10.57,europe
+New Caledonia,3149.95,2093828,12.77,asia
+New Zealand,33094.68,5768613,7.75,oceania
+Nicaragua,4330.73,2881914,0.77,northAmerica
+Niger,850.74,54087,0.06,africa
+Nigeria,95756.37,4889741,0.64,africa
+Niue,3.67,194454498,2.36,oceania
+Norway,49992.21,3992278,10.48,europe
+Oman,45749.49,29229572,17.35,asia
+Pakistan,163177.83,94636700,0.97,asia
+Palau,212.69,1713504,10.51,oceania
+Panama,6912.3,38597353,2.03,northAmerica
+Papua New Guinea,2108.53,4437884,0.32,oceania
+Paraguay,4118.04,8988,0.66,southAmerica
+Peru,40535.02,10588401,1.42,southAmerica
+Philippines,83156.56,3717922,0.92,asia
+Poland,316066.06,890130,8.29,europe
+Portugal,56310.45,10309031,5.3,europe
+Qatar,68477.56,170935,49.05,asia
+Romania,94659.94,36458,4.4,europe
+Russian Federation,1708653.32,6052,12.04,asia
+Rwanda,704.06,109308,0.07,africa
+Samoa,161.35,28715022,0.89,oceania
+Sao Tome and Principe,128.35,12026649,0.8,europe
+Saudi Arabia,433556.74,31608,16.57,asia
+Senegal,4976.12,29411929,0.42,africa
+Serbia,49933.54,2057286,6.79,europe
+Seychelles,682.06,546080,7.84,oceania
+Sierra Leone,1334.79,6436698,0.24,africa
+Singapore,32295.27,12530121,6.67,asia
+Slovak Republic,37557.41,48813042,6.95,europe
+Slovenia,17157.89,9714419,8.49,europe
+Small island developing states,230301.09,7653748,3.73,oceania
+Solomon Islands,198.02,92409,0.39,oceania
+Somalia,649.06,5396424,0.07,africa
+South africa,435877.96,13142,8.93,africa
+South asia,1970176.42,194672,1.28,asia
+Spain,329285.6,1099920,7.23,europe
+Sri Lanka,11763.74,21731053,0.57,asia
+St. Kitts and Nevis,249.36,2943356,4.88,europe
+St. Lucia,396.04,3139019,2.33,europe
+St. Vincent and the Grenadines,201.69,62760039,1.85,europe
+Sub-Saharan africa,684558.62,540394,0.84,oceania
+Sudan,14051.94,182138,0.34,africa
+Suriname,2438.56,51784921,4.73,southAmerica
+Swaziland,1092.77,20668557,0.95,africa
+Sweden,49049.79,46572772,5.32,europe
+Switzerland,40392.01,14363532,5.28,europe
+Syrian Arab Republic,71598.18,9381729,3.65,asia
+Tajikistan,3146.29,45110527,0.47,asia
+Tanzania,6464.92,73195345,0.15,africa
+Thailand,285732.64,7621779,4.19,asia
+Timor-Leste,190.68,1088486,0.18,africa
+Togo,1419.13,23083083,0.25,africa
+Tonga,176.02,6571855,1.71,oceania
+Trinidad and Tobago,49772.19,1367,37.39,oceania
+Tunisia,25012.61,107383,2.42,africa
+Turkey,283979.81,1410296,4,europe
+Turkmenistan,47839.68,68270489,9.73,asia
+Turks and Caicos Islands,157.68,7822435,4.38,oceania
+Uganda,3747.67,5267970,0.12,africa
+Ukraine,323532.08,29726,6.99,europe
+United Arab Emirates,155066.43,23364185,24.98,asia
+United Kingdom,522855.53,1711105,8.52,europe
+United States,5461013.74,45683020,17.94,northAmerica
+Uruguay,8327.76,32341728,2.5,southAmerica
+Uzbekistan,124905.35,8481771,4.57,asia
+Vanuatu,91.68,28614227,0.4,oceania
+"Venezuela, RB",169532.74,311182845,6.07,southAmerica
+Vietnam,127384.25,3352651,1.5,asia
+West Bank and Gaza,2053.52,245453,0.52,asia
+"Yemen, Rep.",23384.46,87411012,1.03,asia
+Zambia,1888.51,24743946,0.15,africa
+Zimbabwe,9075.83,13792086,0.73,africa
